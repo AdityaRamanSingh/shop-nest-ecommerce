@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "nopage"
+    ],
+    "git.autoRepositoryDetection": false,
+    "gitlens.advanced.caching.enabled": true,
+    "gitlens.plusFeatures.enabled": true,
+    "gitlens.virtualRepositories.enabled": true,
+    "gitlens.currentLine.enabled": true,
+    "gitlens.views.experimental.multiSelect.enabled": true
+}
